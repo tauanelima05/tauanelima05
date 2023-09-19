@@ -6,11 +6,11 @@
 
 
 
-<h3>Me chame Tauane, tenho 19 anos e moro em São Paulo.</h3>
+<h3>Me chamo Tauane, tenho 19 anos e moro em São Paulo.</h3>
 
 <br>
 
-<p align="left">
+<p>
    👩🏻‍💻
 
    ‣ Desenvolvedora WEB              | ‣ Técnica em Desenvolvimento de Sistemas (ETIM)
@@ -22,7 +22,7 @@
 
 <br>
 
-<p align="right">
+<p>
  
   </>
  
