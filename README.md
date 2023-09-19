@@ -1,4 +1,4 @@
-<img width="150px" align="right" src="https://github.com/tauanelima05/tauanelima05/assets/101372296/68cedb43-1306-479c-83be-8f3ecde523cf">
+<img width="140px" align="right" src="https://github.com/tauanelima05/tauanelima05/assets/101372296/68cedb43-1306-479c-83be-8f3ecde523cf">
 
 <h1>
     Oiee, seja bem vindo(a)! 🙃👋
