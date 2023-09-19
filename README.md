@@ -35,6 +35,9 @@
   ‣ Coordenação de tarefas em equipe | ‣ Atendimento ao cliente
 </p>
 
+<br>
+<h4>QUAISQUER SUGESTÕES E DICAS SERÃO BEM VINDAS! OBRIGADA 💜</h4>
+
 ##
 
 <div align="center">
