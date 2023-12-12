@@ -28,7 +28,7 @@
  
   ‣ HTML & CSS                       | ‣ Estudando JavaScript
 
-  ‣ Teste de ponta a ponta           | ‣ Testes Funcionais
+  ‣ Teste de ponta a ponta           | ‣ Testes Funcionais           | ‣ Testes Automáticos
 
   ‣ Pacote Office                    | ‣ Usabilidade de interface de software
 
