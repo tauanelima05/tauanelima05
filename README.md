@@ -30,6 +30,8 @@
 
   ‣ Teste de ponta a ponta           | ‣ Testes Funcionais           | ‣ Testes Automáticos
 
+  ‣ Análise e Melhoria Contínua      | ‣ Análise de Dados            | ‣ Test Plan          | ‣ BDD 
+
   ‣ Pacote Office                    | ‣ Usabilidade de interface de software
 
   ‣ Coordenação de tarefas em equipe | ‣ Atendimento ao cliente
